@@ -7,6 +7,6 @@ Uma landing page simples, com componentes e funções React que calculam gastos 
 ## 🚀 Tecnologias utilizadas
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 </div>
