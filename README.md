@@ -1,4 +1,4 @@
-# 📝 Teste de lógica ecônomica com React!! 
+# 📝 Teste de lógica econômica com React!! 
 
 Uma landing page simples, com componentes e funções React que calculam gastos e arrecadações monetárias para um controle financeiro!
 
