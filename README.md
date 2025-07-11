@@ -6,7 +6,13 @@ Uma landing page simples, com componentes e funções React que calculam gastos 
 
 ## 🚀 Tecnologias utilizadas
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-</div>
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+## ✨ Funcionalidades
+
+- ✅ Adicionar novos gastos
+- ✏️ Editar transações
+- ❌ Excluir transações
+- ✔️ Salvo no LocalStorage do usuario!
